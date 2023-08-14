@@ -1,0 +1,4 @@
+server:
+  port: ${PORT:8889}
+
+message: Este es el mensaje de Mariano.
